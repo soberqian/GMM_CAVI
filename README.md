@@ -19,6 +19,9 @@ Journal of the American Statistical Association, 2017, 112(518): 859-877.
 可以参考我的博客：https://qianyang-hfut.blog.csdn.net/article/details/86694325
 另外，详细的公式推理，也上上传到该文件夹下面了。
 
+# 算法流程
+![算法流程](https://img-blog.csdnimg.cn/20190608090203984.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9xaWFueWFuZy1oZnV0LmJsb2cuY3Nkbi5uZXQ=,size_16,color_FFFFFF,t_70#pic_center)
+
 # 代码
 使用的是Python 3，代码如gmmvi.py所示。
 ```python
