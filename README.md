@@ -7,7 +7,7 @@ Coordinate ascent variational inference for a Gaussian mixture model
 
 # 代码对应的论文
 Blei D M, Kucukelbir A, McAuliffe J D. Variational inference: A review for statisticians[J]. 
-&nbsp;&nbsp;Journal of the American Statistical Association, 2017, 112(518): 859-877.
+Journal of the American Statistical Association, 2017, 112(518): 859-877.
 
 由大牛Blei D M在顶刊《Journal of the American Statistical Association》发表的论文。
 
