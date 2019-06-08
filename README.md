@@ -14,3 +14,7 @@ Journal of the American Statistical Association, 2017, 112(518): 859-877.
 # 高斯混合模型生成过程
 如下为，高斯混合模型的生成过程：
 ![高斯混合模型](https://img-blog.csdnimg.cn/20190608082614293.png#pic_center)
+
+# 变分推理
+可以参考我的博客：https://qianyang-hfut.blog.csdn.net/article/details/86694325
+另外，详细的公式推理，也上上传到该文件夹下面了。
