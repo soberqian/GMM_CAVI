@@ -9,7 +9,7 @@ Coordinate ascent variational inference for a Gaussian mixture model
 Blei D M, Kucukelbir A, McAuliffe J D. Variational inference: A review for statisticians[J]. 
 Journal of the American Statistical Association, 2017, 112(518): 859-877.
 
-由大牛Blei D M在顶刊《Journal of the American Statistical Association》发表的论文。
+由概率图模型大佬Blei D M在顶刊《Journal of the American Statistical Association》发表的论文。
 
 # 高斯混合模型生成过程
 如下为，高斯混合模型的生成过程：
